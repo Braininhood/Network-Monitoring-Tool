@@ -33,6 +33,7 @@ Features
 
     Install Dependencies:
     pip install -r requirements.txt
+    
     Set Up Npcap (Windows):
         Download and install Npcap from the [Npcap website](https://npcap.com/#download).
         Ensure the option "Install in WinPcap API-compatible mode" is checked during installation.
